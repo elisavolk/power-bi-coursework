@@ -44,6 +44,19 @@ The report explores:
 - Improve interactions between visuals to better support the analytical narrative.
 - Continue developing the storytelling around the 2023-2024 sales decrease.
 
+## Report Preview
+
+### Sales Overview
+
+![Sales overview](images/sales_overview.png)
+
+### Sales Decline Analysis
+
+![Sales decline analysis](images/sales_decline_analysis.png)
+
+### Customer And Market Analysis
+
+![Customer and market analysis](images/customer_market_analysis.png)
 ## Notes
 
 This report is coursework, not a full production BI solution. It is included to show progression from basic dashboard creation toward a more structured sales analysis report.
