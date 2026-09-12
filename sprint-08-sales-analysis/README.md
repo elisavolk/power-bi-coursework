@@ -1,62 +1,71 @@
-# Sprint 08 - Sales Analysis
+# Power BI Sales Analysis
 
-Power BI sales analysis report focused on sales behavior over the last five years.
+Academic Power BI project developed as part of the Data Analytics program at IT Academy – Barcelona Activa.
 
-## Objective
+The exercise analyzes five years of e-commerce sales data, with a particular focus on understanding the slight decline observed in 2023–2024.
 
-The goal of this sprint was to move from guided dashboard tasks toward a more open-ended analytical report. The exercise required formulating business questions, choosing suitable visuals, identifying patterns or anomalies, and presenting conclusions based on the available data.
+## Analysis
 
-A key scenario was to investigate a decrease in sales during 2023-2024 and build a report that could support business interpretation.
+The dashboard explores:
 
-## Dataset And Report Scope
+- Sales evolution and seasonality
+- Transactions, customers and average ticket
+- Customer segmentation by age and geography
+- Sales performance by product and company
+- Possible factors behind the 2023–2024 sales decline
 
-The report uses coursework sales data covering several years of transactions. The analysis focuses on time trends, buyers, geographic areas, sales targets, and seller/product-related views.
+## Key Findings
 
-Compared with Sprint 07, this report includes more developed report pages and more emphasis on storytelling and interactivity.
+Sales grew until 2022 and then stabilized in 2023–2024. The analysis does not indicate a major structural decline: average transaction value and the customer base remained relatively stable, while transaction frequency showed moderate variation.
 
-## Report Focus
+The analysis also identified recurring seasonal patterns, differences across geographic markets and specific companies and products with notable changes in performance.
 
-The report explores:
-
-- monthly and yearly sales trends
-- sales compared with targets
-- sales behavior in Germany
-- average transaction patterns
-- buyer/customer analysis
-- geographic sales distribution
-- top sellers and supporting tooltip pages
-- possible explanations for sales changes over time
-
-## Skills Practiced
-
-- Formulating analytical questions from business data
-- Choosing visualizations based on the question being answered
-- Creating interactive Power BI report pages
-- Using tooltips and bookmarks to support storytelling
-- Comparing sales across time periods
-- Building geographic and buyer-focused analysis
-- Communicating hypotheses and observations through visuals
-
-## Further Improvements
-
-- Combine more dimensions in the analysis, such as customers, products, geography, and time.
-- Refine some data model inconsistencies, especially around age groups.
-- Improve interactions between visuals to better support the analytical narrative.
-- Continue developing the storytelling around the 2023-2024 sales decrease.
-
-## Report Preview
+## Dashboard
 
 ### Sales Overview
 
-![Sales overview](images/sales_overview.png)
+![Sales Overview](images/sales_overview.png)
+
+### Customer & Market Analysis
+
+![Customer and Market Analysis](images/customer_market_analysis.png)
 
 ### Sales Decline Analysis
 
-![Sales decline analysis](images/sales_decline_analysis.png)
+![Sales Decline Analysis](images/sales_decline_analysis.png)
 
-### Customer And Market Analysis
+## Tools
 
-![Customer and market analysis](images/customer_market_analysis.png)
-## Notes
+Power BI · Power Query · DAX · Data Modeling · Data Visualization
 
-This report is coursework, not a full production BI solution. It is included to show progression from basic dashboard creation toward a more structured sales analysis report.
+## Dataset
+
+The dataset was provided as educational material by IT Academy and is not redistributed in this repository.
+
+The Power BI report is available in:
+
+`sprint-08-sales-analysis.pbix`
+
+
+
+---
+
+## Versión en castellano
+
+Proyecto académico de Power BI desarrollado como parte del programa de Data Analytics de IT Academy – Barcelona Activa.
+
+El ejercicio analiza cinco años de ventas de una empresa de e-commerce, con especial atención a la ligera bajada observada en 2023–2024.
+
+El dashboard analiza la evolución y estacionalidad de las ventas, transacciones, clientes, ticket medio, segmentación geográfica y por edad, productos y empresas.
+
+### Principales conclusiones
+
+Las ventas crecieron hasta 2022 y posteriormente se estabilizaron. El análisis no muestra una caída estructural importante: el ticket medio y la base de clientes se mantienen relativamente estables, mientras que la frecuencia de compra presenta variaciones moderadas.
+
+También se identifican patrones estacionales recurrentes y diferencias de comportamiento entre mercados, productos y empresas.
+
+### Herramientas
+
+Power BI · Power Query · DAX · Modelado de datos · Visualización
+
+Los datos utilizados fueron proporcionados como material académico por IT Academy y no se redistribuyen en este repositorio.
