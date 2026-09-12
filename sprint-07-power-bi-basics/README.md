@@ -53,6 +53,19 @@ The dashboard explores:
 - Review axis ranges to avoid exaggerating differences between values.
 - Expand slicer usage to make the report more interactive.
 
+## Report Preview
+
+### Overview
+
+![Sprint 07 overview](images/sprint-07-overview.png)
+
+### Germany Analysis
+
+![Sprint 07 Germany analysis](images/sprint-07-germany-analysis.png)
+
+### Customer And Product Analysis
+
+![Sprint 07 customer and product analysis](images/sprint-07-customers-products.png)
 ## Notes
 
 The original historical file was named `Sprint 7 bis.pbix`; it is renamed here as `sprint-07-power-bi-basics.pbix` for portfolio clarity.
